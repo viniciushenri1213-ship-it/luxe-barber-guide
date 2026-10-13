@@ -9,6 +9,8 @@ const buttonVariants = cva(
   {
     variants: {
       variant: {
+        gold: "rounded-sm bg-primary text-primary-foreground hover:bg-primary/85 uppercase text-[10px] tracking-[1.5px] font-bold h-11 px-6",
+        barberOutline: "rounded-sm border border-border text-foreground hover:border-primary hover:text-primary uppercase text-[10px] tracking-[1.5px] h-11 px-6 bg-transparent",
         default: "bg-primary text-primary-foreground shadow hover:bg-primary/90",
         destructive: "bg-destructive text-destructive-foreground shadow-sm hover:bg-destructive/90",
         outline:

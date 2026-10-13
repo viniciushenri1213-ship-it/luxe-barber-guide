@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Share the barber site's presentation sections and example-contact dialog in a browser-safe component module so the home and dedicated content pages stay consistent without backend services.
