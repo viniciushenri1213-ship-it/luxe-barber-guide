@@ -1,4 +1,4 @@
 # Blackwood Barber
-- [ ] Criar visual, páginas, serviços e galeria.
-- [ ] Implementar contato de exemplo e navegação.
-- [ ] Verificar experiência em computador e celular.
+- [x] Criar visual, páginas, serviços e galeria.
+- [x] Implementar contato de exemplo e navegação.
+- [x] Verificar experiência em computador e celular.
